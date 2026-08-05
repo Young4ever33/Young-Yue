@@ -10,8 +10,6 @@
 
 <p align="center"><a href="https://yueyoungaidesign.com/">打开在线作品集 ↗</a> · <a href="https://myaestheticarchive.com">打开 Aesthetic Archive</a> · <a href="https://github.com/Young4ever33">GitHub</a></p>
 
-<p align="center"><img src="docs/screenshots/site/site-3.png" alt="在线作品集内容目录" width="92%"></p>
-
 ## 关于我
 
 我有五年景观与空间设计经验，经历 AECOM、顺景园林等四家公司和 30 余个落地项目，覆盖文旅、住宅、产业与生态修复，并完整参与“策划 → 概念 → 方案 → 施工图 → 落地”。现在我的主方向是 **AI 应用产品经理｜Agent 工作流与人机协同产品**，同时保留 AI 设计师的视觉判断与专业创作能力。

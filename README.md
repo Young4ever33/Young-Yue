@@ -10,8 +10,6 @@ The complete portfolio website for landscape design, AI products, Agent workflow
 
 <p align="center"><a href="https://yueyoungaidesign.com/">Open the online portfolio ↗</a> · <a href="https://myaestheticarchive.com">Open Aesthetic Archive</a> · <a href="https://github.com/Young4ever33">GitHub</a></p>
 
-<p align="center"><img src="docs/screenshots/site/site-3.png" alt="Online portfolio content index" width="92%"></p>
-
 ## About Me
 
 I have five years of landscape and spatial-design experience across AECOM, Shunjing Landscape, and two other firms, with more than 30 built or delivered projects across cultural tourism, residential, industrial, and ecological-restoration work. I participated across the full process from planning and concept design through documentation and delivery. My current direction is **AI application product management, Agent workflows, and human-in-the-loop products**, while retaining the visual judgment and professional creative practice of an AI designer.
