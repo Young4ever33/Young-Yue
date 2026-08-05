@@ -1,122 +1,142 @@
-<h1 align="center">Young Yue｜AI 设计师 × AI 应用产品经理</h1>
-<p align="center"><strong>Agent 工作流 · 人机协同 · AI 评测 · 专业创作工具</strong></p>
-<p align="center"><a href="https://yueyoungaidesign.com/">完整在线作品集</a> · <a href="https://myaestheticarchive.com">Aesthetic Archive</a> · <a href="https://github.com/Young4ever33">GitHub</a></p>
+# Young Yue | AI Designer × AI Application Product Manager
 
-![YUE YOUNG AI Design 真实网站首屏](docs/screenshots/portfolio-home.png)
+## Complete Online Portfolio
 
-## 关于我
+**[https://yueyoungaidesign.com/](https://yueyoungaidesign.com/)**
 
-我有五年景观与空间设计经验，经历 AECOM、顺景园林等四家公司和 30 余个落地项目，覆盖文旅、住宅、产业与生态修复，并完整参与“策划 → 概念 → 方案 → 施工图 → 落地”。现在我的主方向是 **AI 应用产品经理｜Agent 工作流与人机协同产品**，同时保留 AI 设计师的视觉判断与专业创作能力。
+The complete portfolio website for landscape design, AI products, Agent workflows, and professional creative tools. It includes landscape projects, AI product experiments, workflow practice, professional background, and contact information.
 
-我关注的不只是“使用 AI 工具”或快速生成界面，而是如何把 AI 放进真实、复杂、需要负责的工作流：
+<p align="center"><a href="https://yueyoungaidesign.com/"><img src="docs/screenshots/site/site-1.png" alt="YUE YOUNG AI Design online portfolio homepage" width="100%"></a></p>
 
-- 从用户、场景和证据出发拆解问题，明确 AI 的介入点与人工接管点。
-- 把模糊需求转化为可执行的 Agent workflow、数据结构、交互状态和验收标准。
-- 通过 Prompt Engineering、LLM Evals 与受控实验判断输出是否真正可用。
-- 对幻觉、假精度、隐私、权限和自动化过度建立明确产品边界。
-- 使用 AI coding agent 协作完成原型、全栈实现、测试、部署、Release 与复盘。
+<p align="center"><a href="https://yueyoungaidesign.com/">Open the online portfolio ↗</a> · <a href="https://myaestheticarchive.com">Open Aesthetic Archive</a> · <a href="https://github.com/Young4ever33">GitHub</a></p>
+
+<p align="center"><img src="docs/screenshots/site/site-3.png" alt="Online portfolio content index" width="92%"></p>
+
+## About Me
+
+I have five years of landscape and spatial-design experience across AECOM, Shunjing Landscape, and two other firms, with more than 30 built or delivered projects across cultural tourism, residential, industrial, and ecological-restoration work. I participated across the full process from planning and concept design through documentation and delivery. My current direction is **AI application product management, Agent workflows, and human-in-the-loop products**, while retaining the visual judgment and professional creative practice of an AI designer.
+
+I am interested in more than using AI tools or generating interfaces quickly. I focus on putting AI into real, complex workflows that need clear responsibility:
+
+- Break down problems from users, scenarios, and evidence, then define AI intervention and human handoff points.
+- Turn ambiguous requirements into executable Agent workflows, data structures, interaction states, and acceptance criteria.
+- Use Prompt Engineering, LLM Evals, and controlled experiments to determine whether an output is actually useful.
+- Establish product boundaries around hallucination, false precision, privacy, permissions, and over-automation.
+- Collaborate with AI coding agents across prototyping, full-stack implementation, testing, deployment, release, and review.
 
 ```text
-复杂任务 → AI 分析或执行 → 证据与状态可见 → 人工复核/接管 → 结果留存与迭代
+Complex task → AI analysis or execution → visible evidence and state → human review / takeover → retained result and iteration
 ```
 
-## AI 设计师 × AI 产品经理
+## AI Designer × AI Product Manager
 
-景观设计训练让我长期处理空间、视觉、工程、人文、政策和多方协作。读场地与读用户具有相似的方法：从动线、停留、冲突、约束与情绪中识别真实需求，再把问题翻译成可以沟通和交付的结构。
+Landscape design trained me to work across space, visual language, engineering, culture, policy, and multi-disciplinary collaboration. Reading a site and reading a user have a similar foundation: identify real needs through movement, pause, conflict, constraints, and emotion, then translate them into structures that can be communicated and delivered.
 
-转向 AI 产品后，我把这种能力迁移到知识工作流和专业创作工具中：
+I now apply that approach to knowledge workflows and professional creative tools:
 
-| 设计训练 | AI 产品能力 |
+| Design training | AI product capability |
 |---|---|
-| 从复杂场地中建立问题框架 | Product discovery、任务拆解与优先级 |
-| 在多重约束下形成方案 | AI 介入点、失败边界与 Human-in-the-loop |
-| 通过图纸、模型和现场验证 | 原型、Evals、Acceptance 与 Release 验证 |
-| 组织视觉语言和材料系统 | 审美知识结构化、Prompt 与生成质量控制 |
-| 推动方案从概念走向落地 | 从需求判断到可运行产品的完整闭环 |
+| Build a problem framework from a complex site | Product discovery, task decomposition, and prioritization |
+| Develop a proposal under multiple constraints | AI intervention points, failure boundaries, and human-in-the-loop design |
+| Validate through drawings, models, and site delivery | Prototyping, evals, acceptance, and release validation |
+| Organize visual language and material systems | Structured aesthetic knowledge, Prompt design, and generation quality control |
+| Move a concept toward implementation | A complete loop from product judgment to a runnable product |
 
-## 已上线与可下载产品
+<p align="center"><img src="docs/screenshots/site/site-4.png" alt="Professional background, capabilities, and tools page" width="92%"></p>
 
-### 01｜Aesthetic Archive｜AI 审美知识库
+The website also provides an AI digital-self entry point for exploring my background, project direction, and working methods through conversation.
 
-**在线产品：** [myaestheticarchive.com](https://myaestheticarchive.com) · **仓库：** [Aesthetic-Archive](https://github.com/Young4ever33/Aesthetic-Archive)
+<p align="center"><img src="docs/screenshots/site/site-2.png" alt="YUE YOUNG AI digital self" width="420"></p>
 
-设计师可以保存成千上万张参考图，却常常丢失“为什么喜欢、为什么有效、下一次如何使用”的判断。Aesthetic Archive 把视觉参考转化为结构化审美卡片，记录设计元素、文化语境、材料、光线、色彩、构图、双语 Prompt、Negative Prompt、来源和权利信息。
+## Shipped and Downloadable Products
+
+### 01 | Aesthetic Archive | AI Aesthetic Knowledge System
+
+**Live product:** [myaestheticarchive.com](https://myaestheticarchive.com) · **Repository:** [Aesthetic-Archive](https://github.com/Young4ever33/Aesthetic-Archive)
+
+Designers can save thousands of references and still lose the judgment behind them: why a reference works, what to notice, and how to use it again. Aesthetic Archive turns visual references into structured aesthetic cards covering design elements, cultural context, materials, light, color, composition, bilingual Prompts, Negative Prompts, sources, and rights information.
 
 ```text
-参考图 → AI 辅助分析 → 人工编辑 → 审美卡片 → Prompt / Collage → 审核后公开
+Reference → AI-assisted analysis → human editing → aesthetic card → Prompt / Collage → human review before publication
 ```
 
-产品包含 Public Plaza、My Archive、Prompt 复用、Collage Board、Reviewer/Admin 审核、系统消息和 Feedback 对话。私人研究默认私有，Provider Key 在服务端加密，公开卡片必须人工审核。
+The product includes Public Plaza, My Archive, Prompt reuse, Collage Board, reviewer/admin review, system messages, and threaded Feedback conversations. Private research is private by default, Provider Keys are encrypted server-side, and public cards require human review.
 
-我负责产品定位、知识模型、四阶段工作流、Prompt 评测、隐私与审核边界、人工验收和上线决策。A-04 参数化建筑案例采用四维人工评分与单维门槛，保留中英文 Prompt 迭代、候选图和失败原因；这些结果明确标注为单案例受控评测，不包装成项目整体准确率。
+I owned the product positioning, knowledge model, four-stage workflow, Prompt evaluation, privacy and review boundaries, human acceptance, and release decisions. The A-04 parametric-architecture case uses four human-rated dimensions with a single-dimension threshold. Chinese and English Prompt iterations, candidate images, and failure causes are retained. These results are explicitly marked as a controlled evaluation for one case, not as project-wide accuracy.
 
-### 02｜ZHONG 求职助手｜证据驱动的求职决策副驾驶
+### 02 | ZHONG Job Assistant | Evidence-Driven Job Search Copilot
 
-**下载：** [ZHONG v1.0.0](https://github.com/Young4ever33/ZHONG-Job-Assistant/releases/tag/v1.0.0) · **仓库：** [ZHONG-Job-Assistant](https://github.com/Young4ever33/ZHONG-Job-Assistant)
+**Download:** [ZHONG v1.0.0](https://github.com/Young4ever33/ZHONG-Job-Assistant/releases/tag/v1.0.0) · **Repository:** [ZHONG-Job-Assistant](https://github.com/Young4ever33/ZHONG-Job-Assistant)
 
-ZHONG 是 Chrome MV3 扩展，把求职拆成“候选人事实档案 → 当前页岗位池 → JD/简历双向证据 → 人工审核 → 沟通与追踪”。它不把关键词分数包装成录用概率，也不替用户自动投递。
+ZHONG is a Chrome MV3 extension that structures job search as candidate fact record → current-page job pool → two-way JD/resume evidence → human review → communication and follow-up. It does not turn keyword scores into hiring probabilities or submit applications on the user's behalf.
 
-扩展展示简历原文、JD 原文、匹配线索、能力缺口和信息完整度。信息不足时显示“待审核”；材料准备和发送严格分离；身份、资金、验证码等敏感请求进入阻断或复核。默认使用本地规则和浏览器存储，只有用户主动配置远程 Agent 时才可能向第三方服务发送选定内容。
+The extension shows resume text, JD text, matching evidence, capability gaps, and information completeness. Missing information is marked for review; preparation and sending are separate actions; requests involving identity, money, or verification codes are blocked or escalated. It uses local rules and browser storage by default. Selected content can reach a third-party Agent only when the user explicitly configures one.
 
-这个项目验证了我对证据链、诚实 UI、隐私优先、人机协同和不可逆操作边界的产品判断。
+This project tests product judgment around evidence chains, honest UI, privacy-first design, human collaboration, and irreversible-action boundaries.
 
-### 03｜Pi Agent Desktop｜Windows Coding Agent 工作台
+### 03 | Pi Agent Desktop | Windows Coding Agent Workbench
 
-**下载：** [Pi Agent Desktop v0.1.0](https://github.com/Young4ever33/Pi-Agent-Desktop/releases/tag/v0.1.0) · **仓库：** [Pi-Agent-Desktop](https://github.com/Young4ever33/Pi-Agent-Desktop)
+**Download:** [Pi Agent Desktop v0.1.0](https://github.com/Young4ever33/Pi-Agent-Desktop/releases/tag/v0.1.0) · **Repository:** [Pi-Agent-Desktop](https://github.com/Young4ever33/Pi-Agent-Desktop)
 
-Pi Agent Desktop 为 Pi Coding Agent 和 Pi Web 增加 Windows 桌面工作流与分发层，集中处理启动、单实例、工作区、历史会话、后台任务、托盘、Progress Island、Cowart 画布、窗口恢复和安装包发布。
+Pi Agent Desktop adds a Windows desktop workflow and distribution layer around Pi Coding Agent and Pi Web. It handles startup, single-instance behavior, workspaces, session history, background tasks, tray behavior, Progress Island, Cowart canvas, window recovery, and installer releases.
 
-关键产品判断是拒绝不可验证的百分比进度：长任务只显示“空闲、执行中、完成”等真实状态。关闭主窗口后 runtime 可以在托盘继续运行；工作区和版本被固定，避免 `latest` 导致行为漂移。项目提供 NSIS 安装包、便携 ZIP 和 SHA-256 校验文件。
+The key product decision is to reject unverifiable percentage progress. Long-running tasks show observable states such as idle, executing, and done. Closing the main window lets the runtime continue in the tray; workspace and dependency versions are pinned to avoid behavioral drift from `latest`. The project ships an NSIS installer, portable ZIP, and SHA-256 checksums.
 
-它证明了我不仅能定义 AI workflow，也能处理桌面交互、运行时治理、依赖钉版、打包分发和 Release 验证。
+It demonstrates that I can define AI workflows and also work through desktop interaction, runtime governance, dependency pinning, packaging, distribution, and release validation.
 
-## 在线作品集中的五个 AI 产品实验
+## Other AI Product Experiments in the Online Portfolio
 
-以下五个项目均可在 [yueyoungaidesign.com](https://yueyoungaidesign.com/) 打开完整产品说明与桌面/移动原型。它们不是一组同质化界面，而是对不同用户问题、内容结构和产品关系的独立探索。
+The projects below can be explored through the [complete online portfolio](https://yueyoungaidesign.com/), including full product narratives and desktop/mobile prototypes. Aesthetic Archive is already documented above under shipped products and is intentionally not repeated here.
 
-### 01｜Aesthetic Archive｜审美档案与知识系统
+### 01 | Dream Raido | Personal Blog Audio Library
 
-从日常收藏切入，为视觉设计师、品牌策划、空间设计研究者和 AI 视觉创作者建立可持续扩展的参考库。产品把散落在相册、Pinterest、项目文件夹和聊天记录里的图片，转化为可以检索、阅读、跨域引用和复用 Prompt 的项目资产。
+For writers, research-oriented creators, and knowledge-management users, Dream Raido turns articles, links, documents, and notes into a listenable audio archive. The workflow covers source import, blog drafts, voice and tone configuration, audio generation, archive management, and publication, while keeping summaries, duration, status, and source boundaries together in one record.
 
-### 02｜Dream Raido｜个人博客音频库
+### 02 | Lily | Full-Cycle Women's Health Companion
 
-面向写作者、研究型创作者和知识管理用户，把个人文章、链接、文档与笔记整理成可收听的声音档案。工作流覆盖资料导入、博客草稿、音色与语气配置、音频生成、档案管理和公开发布，并把摘要、时长、状态和来源边界绑定在同一条记录中。
+Lily creates a continuous body-recording experience across adolescence, everyday cycles, conception, pregnancy, postpartum recovery, and perimenopause. It goes beyond period dates by placing symptoms, mood, sleep, temperature, and life-stage events on a long-term timeline. Stage-specific questionnaires, trend feedback, and restrained reminders help users understand change without manufacturing health anxiety.
 
-### 03｜Lily｜女性全周期健康陪伴
+### 03 | EveryThing Test | Social-Issue Reflection Library
 
-围绕青春期、日常周期、备孕孕期产后和围绝经期建立连续的身体记录体验。产品不只记录经期日期，而是把症状、心情、睡眠、体温和生命阶段事件放进长期时间线；通过阶段问卷、趋势反馈和克制提醒，帮助用户理解变化，而不是制造健康焦虑。
+EveryThing Test turns social topics such as gender, generation, subculture, city, and profession into answerable, reflective interactive tests. It generates questions from research material and concrete scenarios, then uses topic filters, test cards, a generation workflow, and result feedback to help users examine positions, bias, identity, and choices rather than assigning entertainment-only labels.
 
-### 04｜EveryThing Test｜社会议题内观测试库
+### 04 | Yywhy Papers | Personal Papers and Evidence Network
 
-把性别、世代、亚文化、城市与职业等社会议题转化为可回答、可反思的互动测试。产品从研究材料和具体场景生成题目，通过主题筛选、测试卡片、生成工作流和结果反馈，帮助用户理解自己的立场、偏见、身份和选择，而不是只提供娱乐化标签。
+For research-oriented creators, product thinkers, and writers, Yywhy Papers organizes events, screenshots, links, notes, and viewpoints into facts, claims, context, citations, and open questions. It forms a paper index, article detail pages, structure generation, and an evidence network so fragments can become traceable research that can be questioned further rather than an untraceable long-form generation.
 
-### 05｜Yywhy Papers｜个人论文与证据网络
+<p align="center"><img src="docs/screenshots/site/site-6.png" alt="Five AI-native product experiments page" width="92%"></p>
 
-面向研究型创作者、产品思考者和写作者，把事件、截图、链接、笔记与观点按事实、论点、背景、引用和问题分层，形成论文目录、文章详情、结构生成与证据网络。目标是让碎片材料发展为有出处、可继续追问的个人研究，而不是生成一篇无法追溯的长文。
+## Landscape Design and AI Workflows
 
-## Agent Workflow 与 Codex Skills
+The complete website retains the landscape projects, professional background, and the Landscape × AI transition narrative. Landscape design is inherently cross-disciplinary: one proposal must handle ecology, engineering, culture, policy, spatial experience, and multi-disciplinary coordination. AI can connect research, generation, validation, and communication into a faster loop.
 
-### PPT HTML IDML Convert｜可编辑固定版式转换 Skill
+<p align="center"><img src="docs/screenshots/site/site-5.png" alt="Landscape project page" width="92%"></p>
 
-**仓库：** [ppt-html-idml-convert](https://github.com/Young4ever33/ppt-html-idml-convert)
+## Agent Workflows and Codex Skills
 
-这是一个面向 Codex 的格式转换路由与执行 Skill。它先判断源格式、目标格式、页面尺寸和保真层级，再选择确定性脚本与桌面应用完成转换。当前已实现 HTML → 可编辑 IDML：通过 Chrome 提取渲染后的文本、图片、形状、边框和链接，再由 InDesign 重建页面对象并导出 IDML。
+### PPT HTML IDML Convert | Editable Fixed-Layout Conversion Skill
 
-项目明确区分“可打开、可编辑版式、语义级往返”三个层级，并把 PDF 定位为 proof/export 或不可编辑置入源，避免承诺不存在的无损通用转换。
+**Repository:** [ppt-html-idml-convert](https://github.com/Young4ever33/ppt-html-idml-convert)
 
-### AI PM-HR｜AI 产品求职工作流 Skill
+This is a Codex-oriented routing and execution Skill for format conversion. It first identifies source format, target format, page dimensions, and fidelity tier, then selects deterministic scripts and desktop applications. The implemented path is HTML → editable IDML: Chrome extracts rendered text, images, shapes, borders, and links, and InDesign rebuilds page objects before exporting IDML.
 
-**仓库：** [ai-pm-hr](https://github.com/Young4ever33/ai-pm-hr)
+The project distinguishes the tiers of opening a file, editing its layout, and semantic round-tripping. PDF is treated as proof/export or an uneditable placed source, avoiding claims of universal lossless conversion that the implementation cannot support.
 
-将 AI/AIGC 产品岗位求职拆成 JD 分析、简历证据匹配、定位调整、打招呼话术和面试准备。核心不是代替候选人编写经历，而是围绕真实证据组织表达，识别岗位要求与个人项目之间的可证明关系。
+### AI PM-HR | AI Product Job-Search Workflow Skill
 
-### Plan Council Execution｜Agent 任务治理工作流
+**Repository:** [ai-pm-hr](https://github.com/Young4ever33/ai-pm-hr)
 
-**仓库：** [plan-council-execution](https://github.com/Young4ever33/plan-council-execution)
+This workflow decomposes AI/AIGC product job search into JD analysis, resume evidence matching, positioning, outreach language, and interview preparation. It does not invent experience; it organizes real evidence and identifies demonstrable relationships between job requirements and personal projects.
 
-轻量级 Agent 任务治理流程，覆盖计划、Council review、执行和结果检查。它用于在长任务中建立阶段边界、评审节点和验收动作，减少 Agent 在错误方向上持续执行或仅凭自身声明判断“已完成”。
+### Plan Council Execution | Agent Task-Governance Workflow
 
-## 方法与能力
+**Repository:** [plan-council-execution](https://github.com/Young4ever33/plan-council-execution)
+
+A lightweight Agent task-governance process covering planning, Council review, execution, and result checking. It establishes phase boundaries, review points, and acceptance actions for long tasks, reducing the risk of an Agent continuing in the wrong direction or declaring completion without evidence.
+
+<p align="center"><img src="docs/screenshots/site/site-7.png" alt="Dao, method, and tools AI workflow map" width="92%"></p>
+
+## Methods and Capabilities
 
 ```text
 AI Application Product Management · AI Workflow · Agent Product
@@ -126,17 +146,27 @@ Product Discovery · MVP Scoping · Prioritization · Release Validation
 Visual Systems · Aesthetic Research · Design Workflow
 ```
 
-技术实践包括 JavaScript、TypeScript、React、Next.js、Electron、Chrome MV3、Supabase、Postgres、RLS、Cloudflare Workers、Node.js、PowerShell、GitHub Actions 与产品部署。
+Technical practice includes JavaScript, TypeScript, React, Next.js, Electron, Chrome MV3, Supabase, Postgres, RLS, Cloudflare Workers, Node.js, PowerShell, GitHub Actions, and product deployment.
 
-## AI 协作说明
+## AI Collaboration Note
 
-这些项目使用 AI coding agents 辅助实现。产品定位、用户问题、工作流边界、评测方法、人工接管规则、隐私取舍、失败复盘和发布决策由我负责。我不会把 AI 协作包装成个人独立手写全部代码，也不会用虚构用户量、准确率或“生产级”表述替代真实证据。
+These projects were built with assistance from AI coding agents. I am responsible for product positioning, user problems, workflow boundaries, evaluation methods, human handoff rules, privacy trade-offs, failure reviews, and release decisions. I do not present AI collaboration as personally handwriting every line of code, and I do not replace real evidence with invented user counts, accuracy figures, or claims of production maturity.
 
-我的作品集重点是展示：如何判断 AI 应该做什么、不能做什么，如何让证据和失败状态可见，以及如何把这些判断落实为可以使用、检查和迭代的产品。
+The portfolio is intended to show how I decide what AI should do, what it should not do, how evidence and failure states remain visible, and how those decisions become products that can be used, checked, and iterated.
 
-## 联系
+## Beyond the Screen
 
-- 完整作品集：<https://yueyoungaidesign.com/>
-- GitHub：<https://github.com/Young4ever33>
-- 所在地：杭州，中国
-- 求职方向：AI 应用产品经理、AI 产品经理、Agent / Workflow 产品
+The complete website also retains life, interests, and personal observations. Professional judgment comes not only from tools and screens, but also from lived experience, spatial awareness, and sustained observation.
+
+<p align="center"><img src="docs/screenshots/site/site-8.png" alt="Life, interests, and thinking page" width="92%"></p>
+
+## Contact
+
+- Complete portfolio: <https://yueyoungaidesign.com/>
+- GitHub: <https://github.com/Young4ever33>
+- Location: Hangzhou, China
+- Target roles: AI Application Product Manager, AI Product Manager, Agent / Workflow Product
+
+<p align="center"><img src="docs/screenshots/site/site-9.png" alt="Contact and collaboration page" width="92%"></p>
+
+<p align="center"><a href="https://yueyoungaidesign.com/">Enter the complete website to view all pages and projects ↗</a></p>
