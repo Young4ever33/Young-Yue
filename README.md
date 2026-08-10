@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/logo-white.png" alt="Young Yue white logo" width="132"></p>
+
 # Young Yue | AI Designer × AI Application Product Manager
 
 [简体中文](README.zh-CN.md) · **English**

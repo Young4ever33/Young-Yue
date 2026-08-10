@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/logo-white.png" alt="Young Yue 白色 Logo" width="132"></p>
+
 # Young Yue｜AI 设计师 × AI 应用产品经理
 
 **简体中文** · [English](README.md)
