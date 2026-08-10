@@ -1,10 +1,14 @@
 # Young Yue｜AI 设计师 × AI 应用产品经理
 
+**简体中文** · [English](README.md)
+
 ## 完整在线作品集
 
 **[https://yueyoungaidesign.com/](https://yueyoungaidesign.com/)**
 
-景观设计、AI 产品、Agent 工作流与专业创作工具的完整作品集网站，包含景观项目、AI 产品实验、工作流实践、个人经历和联系方式。
+本仓库用于展示 Young Yue 在线作品集的说明文档与精选截图。完整作品集涵盖景观设计、AI 产品、Agent 工作流与专业创作工具，并包含项目叙事、工作方法、个人经历和联系方式。
+
+> 完整内容请访问 **[yueyoungaidesign.com](https://yueyoungaidesign.com/)**。本仓库主要用于展示与索引，不是可独立运行的应用程序包。
 
 <p align="center"><a href="https://yueyoungaidesign.com/"><img src="docs/screenshots/site/site-1.png" alt="YUE YOUNG AI Design 在线作品集首页" width="100%"></a></p>
 

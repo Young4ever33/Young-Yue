@@ -1,10 +1,14 @@
 # Young Yue | AI Designer × AI Application Product Manager
 
+[简体中文](README.zh-CN.md) · **English**
+
 ## Complete Online Portfolio
 
 **[https://yueyoungaidesign.com/](https://yueyoungaidesign.com/)**
 
-The complete portfolio website for landscape design, AI products, Agent workflows, and professional creative tools. It includes landscape projects, AI product experiments, workflow practice, professional background, and contact information.
+This repository contains the documentation and selected screenshots for Young Yue's online portfolio. The portfolio brings together landscape design, AI products, Agent workflows, and professional creative tools, along with project stories, working methods, and contact information.
+
+> Visit the live portfolio at **[yueyoungaidesign.com](https://yueyoungaidesign.com/)**. This repository is primarily a presentation and reference space; it is not a standalone application package.
 
 <p align="center"><a href="https://yueyoungaidesign.com/"><img src="docs/screenshots/site/site-1.png" alt="YUE YOUNG AI Design online portfolio homepage" width="100%"></a></p>
 
